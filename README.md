@@ -1,5 +1,4 @@
 - Hello, I’m @Edwardtw92.
-- I’m interested in theoreitcal and mathematical physics.
 
 <!---
 Edwardtw92/Edwardtw92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
